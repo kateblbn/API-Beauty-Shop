@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/kateblbn.github.io/API-Beauty-Shop/static/css/main.4e828050.css",
-    "main.js": "/kateblbn.github.io/API-Beauty-Shop/static/js/main.80075a61.js",
-    "index.html": "/kateblbn.github.io/API-Beauty-Shop/index.html",
-    "main.4e828050.css.map": "/kateblbn.github.io/API-Beauty-Shop/static/css/main.4e828050.css.map",
-    "main.80075a61.js.map": "/kateblbn.github.io/API-Beauty-Shop/static/js/main.80075a61.js.map"
+    "main.css": "/API-Beauty-Shop/static/css/main.4e828050.css",
+    "main.js": "/API-Beauty-Shop/static/js/main.80075a61.js",
+    "index.html": "/API-Beauty-Shop/index.html",
+    "main.4e828050.css.map": "/API-Beauty-Shop/static/css/main.4e828050.css.map",
+    "main.80075a61.js.map": "/API-Beauty-Shop/static/js/main.80075a61.js.map"
   },
   "entrypoints": [
     "static/css/main.4e828050.css",
